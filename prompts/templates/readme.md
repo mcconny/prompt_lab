@@ -1,1 +1,1 @@
-# coming soon
+# Generic, reusable prompt templates. Coming soon
