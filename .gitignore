@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Umgebungen
+# Environments
 .env
 .venv/
 venv/
@@ -14,6 +14,6 @@ venv/
 # Logs
 *.log
 
-# System-Müll
+# OS junk
 .DS_Store
 Thumbs.db
