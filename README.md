@@ -6,9 +6,9 @@ A personal prototype exploring how LLM-powered prompts can support learning and 
 - /apps – small tools & generators
 - /workshops – training materials
 
-# Quickstart (placeholder)
-
 ![Repo structure](docs/repo-structure.png)
+
+# Quickstart (placeholder)
 
 # Week 1 Plan
 See issue: plan: week 1
