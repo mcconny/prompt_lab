@@ -8,5 +8,7 @@ A personal prototype exploring how LLM-powered prompts can support learning and 
 
 # Quickstart (placeholder)
 
+![Repo structure](docs/repo-structure.png)
+
 # Week 1 Plan
 See issue: plan: week 1
