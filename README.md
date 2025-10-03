@@ -6,6 +6,9 @@ A personal prototype exploring how LLM-powered prompts can support learning and 
 - /apps – small tools & generators
 - /workshops – training materials
 
+```markdown
+- `/apps/task-generator` – V0 stub (reads JSON in, writes JSON out)
+
 ![Repo structure](docs/repo-structure.png)
 
 # Quickstart (placeholder)
