@@ -8,8 +8,7 @@ A personal prototype exploring how LLM-powered prompts can support learning and 
 
 ![Repo structure](docs/repo-structure.png)
 
-```markdown
-- `/apps/task-generator` – V0 stub (reads JSON in, writes JSON out)'''
+- `/apps/task-generator` – V0 stub (reads JSON in, writes JSON out)
 
 ## Quickstart (placeholder)
 
