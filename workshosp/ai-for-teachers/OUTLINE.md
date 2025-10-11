@@ -1,37 +1,24 @@
 # AI for Teachers – Workshop Outline (v1)
 
-## Goals (max 3)
-- Demystify AI: from magic to method (prompt → structure → output).
-- Enable teachers to build one reproducible classroom helper.
-- Establish a safe, sustainable workflow (timeboxing + ethics basics).
+## Goals
+- Demystify AI: from “magic” to a structured, teachable method.
+- Enable teachers to design one reproducible classroom helper.
+- Show safe and time-efficient ways to integrate AI tools.
 
-## Format
-- 90 minutes (or 2x45). Live demo + guided exercises.
+## Duration
+90 minutes (or 2 × 45 min) – short input + guided practice + demo.
 
 ## Agenda
-1) Framing (10') – What AI can/can't do in class; examples.
-2) Prompt Engineering basics (15') – roles, constraints, schemas.
-3) Live demo (15') – Task generator stub → from input to output.
-4) Guided exercise (25') – Adapt a prompt template to subject X.
-5) Sharing & critique (15') – rubric-based quick review.
-6) Wrap-up (10') – resources, next steps, compliance note.
+1. Framing (10 min) – What AI is / isn’t in teaching.
+2. Prompt Engineering basics (15 min) – roles, constraints, schema.
+3. **Live Demo (15 min)** – your Task-Generator V0.
+4. Guided exercise (25 min) – adapt a prompt template.
+5. Sharing & critique (15 min) – rubric-based peer feedback.
+6. Wrap-up (10 min) – resources & next steps.
 
-## Live Demo Runbook
-- Show repo structure (`/prompts`, `/apps/task-generator`).
-- Edit `input.json` → run stub → show `out/tasks.json`.
-- Discuss constraints & output schema.
-
-## Exercise (teacher-facing)
-- Start from a template; define goal, input schema, constraints.
-- Produce one prompt + sample input; peer-check with rubric.
-
-## Rubric (quick)
-- Goal clarity (0–2), Structure (0–2), Constraints (0–2), Reproducibility (0–2), Fit for classroom (0–2).
-
-## Risks / Fallbacks
-- No local Python? → demo only + take-home instructions.
-- Overwhelm risk → stick to one use-case.
-- Ethics/data: no student data; synthetic examples only.
-
-## Next
-- Provide templates + a 10-min screencast (later).
+## 🧩 Live Demo Runbook
+1. Open repo on GitHub → show folder `/apps/task-generator`.
+2. Open `input.json`; change `"circuit"` to `"RL high-pass"`.
+3. Run `main.py` locally (or show code):  
+   ```bash
+   python apps/task-generator/main.py
